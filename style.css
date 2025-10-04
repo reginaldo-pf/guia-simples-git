@@ -8,4 +8,6 @@ header {
   color: white;
   padding: 20px;
   text-align: center;
+  /* CORREÇÃO */
+  border-radius: 8px;
 }
