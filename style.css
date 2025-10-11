@@ -11,3 +11,12 @@ header {
   /* CORREÇÃO */
   border-radius: 8px;
 }
+
+/* T3 - Contato */
+#contato { max-width: 800px; margin: 24px auto; padding: 0 16px; }
+#contato input, #contato textarea {
+  width: 100%; max-width: 480px; padding: 8px;
+  border: 1px solid #ccc; border-radius: 6px;
+}
+#contato button { padding: 8px 14px; border: 0; border-radius: 6px; background: #007acc; color: #fff; cursor: pointer; }
+#contato button:hover { opacity: 0.9; }
