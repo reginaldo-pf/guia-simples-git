@@ -11,3 +11,6 @@ header {
   /* CORREÇÃO */
   border-radius: 8px;
 }
+/* T2 - Sobre */
+#sobre { max-width: 800px; margin: 24px auto; padding: 0 16px; }
+#sobre h2 { margin-bottom: 8px; }
