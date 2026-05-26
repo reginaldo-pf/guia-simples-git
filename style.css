@@ -26,3 +26,6 @@ header {
   color: #007acc;
 }
 .nav a:hover { text-decoration: underline; }
+/* T2 - Sobre */
+#sobre { max-width: 800px; margin: 24px auto; padding: 0 16px; }
+#sobre h2 { margin-bottom: 8px; }
